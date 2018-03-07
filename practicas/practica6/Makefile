@@ -25,3 +25,4 @@ run: hash
 
 runtest: hash
 	 ./maintest.tcl ./hash.exe
+

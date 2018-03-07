@@ -29,5 +29,5 @@ gcc -c program-that-depends-of-module1.c
 gcc -o program.out module1.o program-that-depends-of-module1.o
 ./program.out
 
-void *d; -> apuntador a la nada. Puede contener cualquier tipo de elemento. 
-
+![alt text](parte1.jpg)
+![alt text](parte2.jpg)
